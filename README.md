@@ -1,6 +1,6 @@
 # OpenCV Mixed-signal Processing
 
-opencvmixedsignalprocessing-melvincabatuan created by Classroom for GitHub
+opencvmixedsignalprocessing-rohit0000 created by Classroom for GitHub
 
 This project illustrates OpenCV Mixed-signal Processing, i.e Native and Java, in Android Studio.
 
